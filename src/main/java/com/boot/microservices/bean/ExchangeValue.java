@@ -16,6 +16,7 @@ public class ExchangeValue {
     private String to;
     private BigDecimal conversionMultiple;
 
+
     public ExchangeValue() {
 
     }
